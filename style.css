@@ -1,0 +1,16 @@
+html {
+  background-image: url(img/rainbowBG.jpg);
+}
+
+body {
+  border: 3px solid color(gray);
+}
+
+button {
+  background-color: black;
+  color: #7cb58b;
+}
+
+a:hover {
+  background-color: #7cb58b;
+}
